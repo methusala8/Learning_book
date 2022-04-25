@@ -3,6 +3,9 @@
 
 #### This contains what this repository is doing and how to fix this;
 
+<<<<<<< HEAD
 
-s is something I am trying to work on; This is not somethingnewl I have learnt thisearlier. this is almost clarifying the  whole conceps:wq
 
+=======
+this is different here:
+>>>>>>> b6b4daf0f71b17cfc369211d75a02a019124e670
